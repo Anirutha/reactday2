@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Praveen/my-app"
+		},
+		{
+			"path": "C:/Users/Praveen/OneDrive/Desktop/dom"
+		},
+		{
+			"path": "C:/Users/Praveen/OneDrive/Desktop/githublearning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my-app"
+	}
+}
